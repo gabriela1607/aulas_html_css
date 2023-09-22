@@ -1,3 +1,12 @@
+#titulo-id{
+    color:rgb(255, 0, 149);
+}
+
+
+.cor-rosa{
+    color:rgb(255, 0, 149);
+
+}
 h2{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(255, 192, 224);
@@ -23,4 +32,13 @@ h1 {
 .fundo-pink {
     background: pink;
 
+}
+
+.fonte-grande{
+    font-size: 50px;
+}
+
+#titulo-principal{
+    background: pink;
+    color:rgb(255, 0, 149)
 }
