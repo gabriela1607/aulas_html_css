@@ -1,0 +1,12 @@
+.caixa_width{
+ border-width: 2px;
+ border-style: solid;
+ border-color: pink;
+  
+ width: 223px;
+}
+
+
+.imagem_width{
+    width: 700px;
+}
